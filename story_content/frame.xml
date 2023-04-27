@@ -74,6 +74,8 @@
             </options>
           </option>
           <option name="settings" value="true" />
+          <option name="fullScreenToggle" value="false" />
+          <option name="playbackSpeedControl" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="bottombaroptions">
@@ -1576,8 +1578,9 @@
       <links>
         <slidelink slideid="_player.5idNklpn6o7" displaytext="Phishing" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5idNklpn6o7.68jvPcfky46" displaytext="Definition" expand="false" type="slide" />
-            <slidelink slideid="_player.5idNklpn6o7.5pR2wK3lEXj" displaytext="Definition" expand="false" type="slide" />
+            <slidelink slideid="_player.5idNklpn6o7.68jvPcfky46" displaytext="Objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.5idNklpn6o7.6GLEvMRvYzO" displaytext="Definition" expand="false" type="slide" />
+            <slidelink slideid="_player.5idNklpn6o7.5pR2wK3lEXj" displaytext="Title" expand="false" type="slide" />
             <slidelink slideid="_player.5idNklpn6o7.5cjomjlIo2E" displaytext="Phone calls" expand="false" type="slide" />
             <slidelink slideid="_player.5idNklpn6o7.6mjdDNP7w2H" displaytext="Text Messages" expand="false" type="slide" />
             <slidelink slideid="_player.5idNklpn6o7.6qZAkdB74w9" displaytext="Examples of “Smishing”" expand="false" type="slide" />
